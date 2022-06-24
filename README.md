@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan14&label=Profile%20views&color=0e75b6&style=flat" alt="armaan14" /> </p>
 
-- 📫 How to reach me **hossainaramn273@gmail.com**
+- 📫 How to reach me **armaanhossain273@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
